@@ -32,7 +32,7 @@ make install
 
 **READ**
 
-_shit_
+_sh*t_
 
 `like`
 
