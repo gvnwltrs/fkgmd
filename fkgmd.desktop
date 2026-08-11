@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=fkgmd
 Comment=Fucking Markdown Reader
-Exec=/home/gwalters/.local/bin/fkgmd %f
+Exec=/home/USER/.local/bin/fkgmd %f
 Type=Application
 Terminal=false
 Categories=Utility;TextTools;
